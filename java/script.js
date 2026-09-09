@@ -1,5 +1,4 @@
-alert("Thanks for your input!");
+alert("Thank your");
 alert ( "welcome" );
-var name = "Mark";
+var name = "ali";
 var nationality;
-nationality = "U.S.";
