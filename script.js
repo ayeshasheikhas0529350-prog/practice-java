@@ -1,4 +1,5 @@
 alert("Thank your");
-alert ( "welcome" );
+window.alert ( "welcome" );
 var name = "ali";
 var nationality;
+
