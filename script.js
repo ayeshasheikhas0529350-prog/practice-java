@@ -1,5 +1,3 @@
-alert("Thank your");
-window.alert ( "welcome" );
-var name = "ali";
-var nationality;
+var thanx = "thanks for your input";
 
+alert (thanx);
