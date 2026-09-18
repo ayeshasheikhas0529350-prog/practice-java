@@ -10,3 +10,17 @@ alert(whatsLeftOver);
  alert(num);
 var newNum = ++num;
 alert(newNum);
+var totalCost = (1 + 3)*4;
+alert(totalCost);
+var resultOfComputation = (2 * 4) * 4 + 2;
+alert(resultOfComputation);
+ var message = "Thanks, ";
+ var userName = "Susan";
+ var banger = "!";
+ var customMess= message + userName + banger;
+alert(customMess);
+var numberOfCats= prompt("How many cats?");
+alert(numberOfCats);
+ var tooManyCats = numberOfCats+ 1;
+ alert(tooManyCats);
+
