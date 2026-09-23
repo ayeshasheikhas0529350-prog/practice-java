@@ -37,7 +37,7 @@ var numberOfCats= prompt("How many cats?");
 alert(numberOfCats);
  var tooManyCats = numberOfCats+ 1;
  alert(tooManyCats);
- var name= prompt(what is you name);
+ var name= prompt("what is you name");
  alert(name);
 var userName="ali";
 alert(userName);
