@@ -33,4 +33,4 @@ alert(numberOfCats);
  alert(Name);
 var userName="ali";
 alert(userName);
-
+alert="Thanks your input";
