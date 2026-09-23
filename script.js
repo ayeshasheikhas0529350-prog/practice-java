@@ -34,3 +34,13 @@ alert(numberOfCats);
 var userName="ali";
 alert(userName);
 alert="Thanks your input";
+ var message = "Thanks, ";
+var banger = "!";
+alert(message + userName + banger);
+
+ var message = "Thanks, ";
+var userName = "Susan";
+var banger = "!";
+var customMess= message + userName + banger;
+alert(customMess);
+
