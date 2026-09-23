@@ -1,9 +1,17 @@
 var originalNum = 23;
 alert(originalNum);
+
+
+
 var num = 10;
 alert(num);
+
+
+
 var popularNumber = num + 200;
 alert(popularNumber);
+
+
 var whatsLeftOver = 10 %3;
 alert(whatsLeftOver);
  var num = 1;
@@ -29,8 +37,8 @@ var numberOfCats= prompt("How many cats?");
 alert(numberOfCats);
  var tooManyCats = numberOfCats+ 1;
  alert(tooManyCats);
- var Name= prompt(what is you name);
- alert(Name);
+ var name= prompt(what is you name);
+ alert(name);
 var userName="ali";
 alert(userName);
 alert="Thanks your input";
