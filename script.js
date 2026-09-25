@@ -1,7 +1,7 @@
 var name = prompt("what is your name?");
 
-window.alert = ("Hi" + name + "thanks for you input" )
+alert = ("Hi" + name + "thanks for your input" )
 
 var age = prompt("what is your age ?");
 
-window.alert = ( "you are" + age + "years old" );
+alert = ( "you are" + age + "years old" );
