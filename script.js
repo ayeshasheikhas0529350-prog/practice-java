@@ -1,6 +1,6 @@
 var name = prompt("what is your name?");
 var age = prompt("what is your age ?");
-window.alert = ("Hi" + name + "your name" + age + "your age" + "thanks for your input" )
+window.alert = ("Hi" + name + "your name" + age + "your age" + "thanks for your input" );
 
 
 
