@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var name = prompt("what is your name?");
 
 alert = ("Hi" + name + "thanks for your input" );
